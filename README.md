@@ -1,2 +1,2 @@
-# graphics
+# Graphics
 Logos, icons etc.
